@@ -123,4 +123,4 @@ O experimento revelou que a **Árvore de Decisão** apresentou o melhor desempen
 Por outro lado, o modelo KNN, apesar de ser mais simples, mostrou um bom desempenho com k=7, evidenciando que ajustes de hiperparâmetros podem melhorar significativamente sua performance.
 ## Repositório
 
-- **Github**: [KNN and Decision_Tree](https://archive.ics.uci.edu/ml/datasets/car+evaluation)
+- **Github**: [KNN and Decision_Tree](https://github.com/Aldenor-Neto/Reconhecimento_de_padroes-TrabalhoFinal-KNN_and_decisionTree)
